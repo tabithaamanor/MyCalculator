@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Calculator</string>
+    <string name="divide">"\u00F7"</string>
+    <string name="plus_minus">+/-</string>
+    <string name="clear">AC</string>
+    <string name="multiply">x</string>
+</resources>
